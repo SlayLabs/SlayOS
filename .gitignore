@@ -1,0 +1,13 @@
+# Windows ISOs — never commit
+*.iso
+
+# Build working directory
+SlayOS-Build/
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs
+*.log
